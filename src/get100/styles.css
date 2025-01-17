@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+   
+   
+}
+.bottonKey {
+    background-color: #042669; 
+    color: white;
+    
+    cursor: "pointer";
+    transition: "background-color 0.3s ease";
+    
+  }
+  
+  .bottonKey:active {
+    background-color: #2879e2;
+  }
+  
