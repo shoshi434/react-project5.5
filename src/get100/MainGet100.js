@@ -23,6 +23,7 @@ const MainGet100=()=>{
         
     }
       const startGame=()=>{
+        setWins([])
         setStatus(1)
         setAble(true)
        const newUsers= users.map((user)=>{
